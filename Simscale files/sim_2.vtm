@@ -1,0 +1,5 @@
+<VTKFile type="vtkMultiBlockDataSet" version="1.0" byte_order="LittleEndian" header_type="UInt64" compressor="vtkZLibDataCompressor">
+  <vtkMultiBlockDataSet>
+    <DataSet index="0" file="sim_2/sim_2_0_0.vtu"/>
+  </vtkMultiBlockDataSet>
+</VTKFile>
